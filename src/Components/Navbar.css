@@ -1,0 +1,16 @@
+/* Example styles for Navbar */
+.navbar {
+  margin-bottom: 20px;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.nav-link {
+  color: #333;
+}
+
+.nav-link:hover {
+  color: #555;
+}

@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CBS Sports",
+            "title": "2024 British Open leaderboard: Live coverage, updates, golf scores today in Round 4 at Royal Troon - CBS Sports",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL2dvbGYvbmV3cy8yMDI0LWJyaXRpc2gtb3Blbi1sZWFkZXJib2FyZC1saXZlLWNvdmVyYWdlLXVwZGF0ZXMtZ29sZi1zY29yZXMtdG9kYXktaW4tcm91bmQtNC1hdC1yb3lhbC10cm9vbi9saXZlL9IBjQFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL2dvbGYvbmV3cy8yMDI0LWJyaXRpc2gtb3Blbi1sZWFkZXJib2FyZC1saXZlLWNvdmVyYWdlLXVwZGF0ZXMtZ29sZi1zY29yZXMtdG9kYXktaW4tcm91bmQtNC1hdC1yb3lhbC10cm9vbi9saXZlL2FtcC8?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-21T12:02:30Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Fox News",
+            "title": "Biden remains obstinate as waves of Democrats call for him to withdraw - Fox News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL2xpdmUtbmV3cy9iaWRlbi13aXRoZHJhdy1kZW1vY3JhdHMtMjAyNC1wcmVzaWRlbnRpYWwtcmFjZS1rYW1hbGEtaGFycmlz0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-21T11:52:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Associated Press",
+            "title": "Heat-related Texas deaths climb after Beryl left millions without power for days or longer - The Associated Press",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2hvdXN0b24tcG93ZXItb3V0YWdlcy1kZWF0aC10b2xsLTUzYTQwM2ZlYzNmZmRmMzRkYWViOGQ1ZTE3OTk1M2Jh0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-21T11:41:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Josh Schafer",
+            "title": "Inflation and the start of tech earnings: What to know this week - Yahoo Finance",
+            "description": "A key inflation reading and the start of Big Tech earnings headline the week ahead amid a slump in tech stocks.",
+            "url": "https://finance.yahoo.com/news/inflation-and-the-start-of-tech-earnings-what-to-know-this-week-110011382.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/r__hd50xtkk4VxWEeKnjzw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2024-07/738e0270-45d2-11ef-bfff-99c4160470d7",
+            "publishedAt": "2024-07-21T11:00:11Z",
+            "content": "Stocks pulled back from record highs amid pressure across the technology sector after a global tech outage sent shockwaves throughout the market on Friday.\r\nThe S&amp;P 500 (^GSPC) ended the week dow… [+7705 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "POLITICO",
+            "title": "China and Philippines reach deal in effort to stop clashes at fiercely disputed shoal - POLITICO",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5wb2xpdGljby5jb20vbmV3cy8yMDI0LzA3LzIxL2NoaW5hLWFuZC1waGlsaXBwaW5lcy1yZWFjaC1kZWFsLWluLWVmZm9ydC10by1zdG9wLWNsYXNoZXMtYXQtZmllcmNlbHktZGlzcHV0ZWQtc2hvYWwtMDAxNjk5NzDSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-21T10:59:19Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Haaretz",
+            "title": "Yemen's Houthis Say They Launched Multiple Ballistic Missiles at Israel's Eilat, Targeted U.S. Ship in Red Sea - Haaretz",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiuQFodHRwczovL3d3dy5oYWFyZXR6LmNvbS9pc3JhZWwtbmV3cy8yMDI0LTA3LTIxL3R5LWFydGljbGUtbGl2ZS9maXJlcy1yYWdlLWluLW5vcnRoZXJuLWlzcmFlbC1hZnRlci1yb2NrZXQtZmlyZS1zb3VyY2VzLWlkZi1zdHJpa2VzLWhlemJvbGxhaC10YXJnZXRzLzAwMDAwMTkwLWQyYmItZGQ0MC1hYjk1LWY2YmJjNWJlMDAwMNIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-21T10:21:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The New York Times",
+            "title": "Campus Protests Led to More Than 3,100 Arrests, but Many Charges Have Been Dropped - The New York Times",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMjEvdXMvY2FtcHVzLXByb3Rlc3RzLWFycmVzdHMuaHRtbNIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-21T09:00:22Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Fox News",
+            "title": "Jennifer Lopez, Ben Affleck 'not getting back together': source - Fox News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL2VudGVydGFpbm1lbnQvamVubmlmZXItbG9wZXotYmVuLWFmZmxlY2stbm90LWdldHRpbmctYmFjay10b2dldGhlci1zb3VyY2XSAWVodHRwczovL3d3dy5mb3huZXdzLmNvbS9lbnRlcnRhaW5tZW50L2plbm5pZmVyLWxvcGV6LWJlbi1hZmZsZWNrLW5vdC1nZXR0aW5nLWJhY2stdG9nZXRoZXItc291cmNlLmFtcA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-21T08:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CNN",
+            "title": "More flight cancellations are expected as airlines gradually recover from global tech outage - CNN",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yMS91cy90ZWNoLW91dGFnZS1mbGlnaHQtY2FuY2VsbGF0aW9ucy11bml0ZWQtZGVsdGEtYWlybGluZXMvaW5kZXguaHRtbNIBXGh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDcvMjEvdXMvdGVjaC1vdXRhZ2UtZmxpZ2h0LWNhbmNlbGxhdGlvbnMtdW5pdGVkLWRlbHRhLWFpcmxpbmVz?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-21T06:49:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Erich Richter",
+            "title": "Jake Paul defeats Mike Perry by TKO, Mike Tyson fight ‘absolutely happening’ - New York Post ",
+            "description": "Jake Paul (10-1) looked dominant against Mike Perry on Saturday night in front of a raucous sold-out crowd at Amalie Arena in Tampa, Fla.",
+            "url": "https://nypost.com/2024/07/21/sports/jake-paul-defeats-mike-perry-by-tko-mike-tyson-fight-absolutely-happening/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/07/jake-paul-eyes-mike-tyson-next.jpg?quality=75&strip=all&1721529085&w=1024",
+            "publishedAt": "2024-07-21T06:39:00Z",
+            "content": "TAMPA Jake Paul has the boxing world by the tail. \r\nPaul (10-1) looked dominant against Mike Perry on Saturday night in front of a raucous sold-out crowd at Amalie Arena in Tampa, Fla. \r\nThe Problem … [+1908 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Daily Beast",
+            "title": "Trump Breaks Promise: ‘I Took a Bullet for Democracy’ - The Daily Beast",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnRoZWRhaWx5YmVhc3QuY29tL3RydW1wLXNheXMtaGUtdG9vay1hLWJ1bGxldC1mb3ItZGVtb2NyYWN5LWF0LW1pY2hpZ2FuLWNhbXBhaWduLXJhbGx5LXNwZWVjaNIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-21T06:33:37Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "DW (English)",
+            "title": "Divided Cyprus marks 50th anniversary of Turkish invasion - DW (English)",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmR3LmNvbS9lbi9kaXZpZGVkLWN5cHJ1cy1tYXJrcy01MHRoLWFubml2ZXJzYXJ5LW9mLXR1cmtpc2gtaW52YXNpb24vYS02OTcyMTcxMdIBWmh0dHBzOi8vYW1wLmR3LmNvbS9lbi9kaXZpZGVkLWN5cHJ1cy1tYXJrcy01MHRoLWFubml2ZXJzYXJ5LW9mLXR1cmtpc2gtaW52YXNpb24vYS02OTcyMTcxMQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-21T05:25:11Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "South Korea responds to North's trash balloons with loudspeaker broadcasts - Reuters",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FzaWEtcGFjaWZpYy9ub3J0aC1rb3JlYS1mbG9hdHMtdHJhc2gtYmFsbG9vbnMtdG93YXJkcy1zb3V0aC15b25oYXAtcmVwb3J0cy0yMDI0LTA3LTIxL9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-21T05:15:14Z",
+            "content": "Please enable JS and disable any ad blocker"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Reuters",
+            "title": "US Secret Service says it previously denied Trump requests for additional resources, New York Times reports - Reuters",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL3VzLXNlY3JldC1zZXJ2aWNlLXNheXMtaXQtcHJldmlvdXNseS1kZW5pZWQtdHJ1bXAtcmVxdWVzdHMtYWRkaXRpb25hbC1yZXNvdXJjZXMtMjAyNC0wNy0yMS_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-21T04:30:25Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Associated Press",
+            "title": "Chicago mail carrier Octavia Redmond killed on her route in broad daylight: ‘Shattered’ - New York Post ",
+            "description": "Octavia Redmond, 48, was shot shortly before noon Friday on South Harvard Avenue on Chicago’s South Side, police said.",
+            "url": "https://nypost.com/2024/07/20/us-news/chicago-mail-carrier-octavia-redmond-killed-on-her-route-in-broad-daylight-shattered/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/07/police-said-offender-identified-male-85773281.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-07-21T03:41:00Z",
+            "content": "These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services,… [+2751 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Times of Israel",
+            "title": "Netanyahu: Strike on Houthi port shows Israel will reach enemies however far away - The Times of Israel",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL25ldGFueWFodS1zdHJpa2Utb24taG91dGhpLXBvcnQtc2hvd3MtaXNyYWVsLXdpbGwtcmVhY2gtZW5lbWllcy1ob3dldmVyLWZhci1hd2F5L9IBc2h0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL25ldGFueWFodS1zdHJpa2Utb24taG91dGhpLXBvcnQtc2hvd3MtaXNyYWVsLXdpbGwtcmVhY2gtZW5lbWllcy1ob3dldmVyLWZhci1hd2F5L2FtcC8?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-21T03:18:24Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YourTango"
+            },
+            "author": "Ruby Miranda",
+            "title": "3 Zodiac Signs Are Showered With Positive Vibes On July 21, 2024 - YourTango",
+            "description": "July 21, 2024, brings a certain mindset into the day, and for three zodiac signs they are only interested in positive vibes.",
+            "url": "https://www.yourtango.com/2024376246/zodiac-signs-showered-positive-vibes-july-21-2024",
+            "urlToImage": "https://www.yourtango.com/sites/default/files/image_blog/2024-07/zodiac-signs-are-showered-positive-vibes-july-21-2024.png",
+            "publishedAt": "2024-07-21T03:05:47Z",
+            "content": "If you've ever experienced what it's like to walk into a room and know that all eyes are on you all eyes in approval of you then you might have an inkling of what July 21, 2024, is going to be about.… [+4025 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Page Six",
+            "title": "Country singer Rory Feek marries his daughter’s teacher 8 years after death of his wife Joey - Page Six",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vcGFnZXNpeC5jb20vMjAyNC8wNy8yMC9lbnRlcnRhaW5tZW50L3JvcnktZmVlay1yZW1hcnJpZXMtOC15ZWFycy1hZnRlci1kZWF0aC1vZi13aWZlLWpvZXkv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-21T01:17:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "New York Post ",
+            "title": "Ex-ESPN star Keith Olbermann questions whether Trump was shot by a bullet after former doc's update - New York Post ",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL255cG9zdC5jb20vMjAyNC8wNy8yMC91cy1uZXdzL2V4LWVzcG4tc3Rhci1rZWl0aC1vbGJlcm1hbm4tcXVlc3Rpb25zLXdoZXRoZXItdHJ1bXAtd2FzLXNob3QtYnktYS1idWxsZXQtYWZ0ZXItZm9ybWVyLWRvY3MtdXBkYXRlL9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-21T00:58:00Z",
+            "content": null
+        }
+    ]
+}
